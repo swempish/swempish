@@ -5,5 +5,4 @@
 ## Get in Touch
 
 - **Email:** emirhancolak@email.com
-- **Website:** [emirhancolak.com.tr](https://emirhancolak.com.tr)
 - **Discord:** @trollchicken
